@@ -8,7 +8,7 @@
 
 - **😶‍🌫️Programming Languages**: Golang, Python, Typescript, C#, C/C++, Lua, Dart
 - **🦄Backend Frameworks**: Django, Flask, Gin, FastAPI, Express
-- **🦕Frontend**: HTML/CSS/JS, jQuery, Vue.js, React Native, Flutter (Mobile)
+- **🦕Frontend**: HTML/CSS/JS, jQuery, React.js, React Native, Flutter (Mobile)
 - **🐘Databases**: PostgreSQL, MySQL, Redis, MongoDB
 - **🐧DevOps & MLOps**: Docker, Git, Nginx, Linux Administration, Kubernetes, Kubeflow, GraphQL, Jenkins, Prometheus & Grafana
 - **🐯Cloud Platforms**: Amazon AWS, Microsoft Azure, Alibaba Cloud, Tencent Cloud
