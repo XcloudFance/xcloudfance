@@ -23,6 +23,8 @@ You can contact me by Email: xcloudfance@outlook.com
 - [Google-ML-Crash-Course-Notes - Personal Note for Google Crash Course](https://github.com/XcloudFance/Google-ML-Crash-Course-Notes)
 - [Grid - A decentralized version control system written by Go coupled with an integrated gin server](https://github.com/UnderTechers/Grid)
 - [Fakebook - School Assignment](https://github.com/XcloudFance/Fakebook)
+- [CFP - Cross Feature Pyramid Transformer - Medical Segmentation](https://github.com/XcloudFance/CFP)
+- [AccidentBlip2: Accident Detection With Multi-View MotionBlip2](https://github.com/YihuaJerry/AccidentBlip2)  [Arxiv](https://arxiv.org/pdf/2404.12149.pdf) 
 
 ### High School Stage - Quanzhou No.7 High School
 - [Verdant Search - A Customized Search Engine implemented by Python and FastAPI](https://github.com/XcloudFance/verdant_search)
