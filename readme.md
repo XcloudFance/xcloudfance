@@ -13,7 +13,7 @@
 - **🐧DevOps & MLOps**: Docker, Git, Nginx, Linux Administration, Kubernetes, Kubeflow, GraphQL, Jenkins, Prometheus & Grafana
 - **🐯Cloud Platforms**: Amazon AWS, Microsoft Azure, Alibaba Cloud, Tencent Cloud
 - **🍮Machine Learning**: Computer Vision (Face Recognition, Face Detection, Face Anti-Spoofing, Object Detection, Semantic Segmentation), NLP
-(Transformer, BERT, Multi-Label Classifi cation, Sentiment Analysis, Named Entity Recognition).
+(Transformer, BERT, Multi-Label Classification, Sentiment Analysis, Named Entity Recognition).
 
 You can contact me by Email: xcloudfance@outlook.com
 
@@ -24,7 +24,8 @@ You can contact me by Email: xcloudfance@outlook.com
 - [Grid - A decentralized version control system written by Go coupled with an integrated gin server](https://github.com/UnderTechers/Grid)
 - [Fakebook - School Assignment](https://github.com/XcloudFance/Fakebook)
 - [CFP - Cross Feature Pyramid Transformer - Medical Segmentation](https://github.com/XcloudFance/CFP)
-- [AccidentBlip2: Accident Detection With Multi-View MotionBlip2](https://github.com/YihuaJerry/AccidentBlip2)  [Arxiv](https://arxiv.org/pdf/2404.12149.pdf) 
+- [AccidentBlip2: Accident Detection With Multi-View MotionBlip2](https://github.com/YihuaJerry/AccidentBlip2)  [Arxiv](https://arxiv.org/pdf/2404.12149.pdf)
+  
 
 ### High School Stage - Quanzhou No.7 High School
 - [Verdant Search - A Customized Search Engine implemented by Python and FastAPI](https://github.com/XcloudFance/verdant_search)
