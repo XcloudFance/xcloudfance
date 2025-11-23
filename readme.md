@@ -1,7 +1,6 @@
 ### Hi, There! I'm Hongyi Cai 👾
-> I am a developer with solid 9-year experience on **Backend**, **Data Science**, **Frontend**, **Operating System** and **Distributed System** fields.
 
-- Second Year in Software Engineering. I build interesting stuffs for fun 🤣
+- Fourth Year in Software Engineering, University of Malaya. I build interesting stuffs for fun 🤣
 - Obsessed with Data Science, Full-Stack Development, Distributed System, Database System, Operating System, Linux Networking Programming and etc.
 - **Data Scientist** | **Full-Stack Developer** | **A-level Computer Science Teacher** | **Linux Enthusiast**
 - Currently targeting at researches in Deep Learning & studying Database System & Linux Kernel.
@@ -12,10 +11,12 @@
 - **🐘Databases**: PostgreSQL, MySQL, Redis, MongoDB
 - **🐧DevOps & MLOps**: Docker, Git, Nginx, Linux Administration, Kubernetes, Kubeflow, GraphQL, Jenkins, Prometheus & Grafana
 - **🐯Cloud Platforms**: Amazon AWS, Microsoft Azure, Alibaba Cloud, Tencent Cloud
-- **🍮Machine Learning**: Computer Vision (Face Recognition, Face Detection, Face Anti-Spoofing, Object Detection, Semantic Segmentation), NLP
-(Transformer, BERT, Multi-Label Classification, Sentiment Analysis, Named Entity Recognition).
 
 You can contact me by Email: xcloudfance@outlook.com
+
+> I start writing blogs and personal academic homepage, deployed on Cloudflare Wrangler.
+[Personal Homepage](https://hongyicai.cc)
+
 
 ## Projects
 
@@ -37,5 +38,3 @@ You can contact me by Email: xcloudfance@outlook.com
 - [V-hashmap - A library implementing Hashmap & List for V](https://github.com/XcloudFance/v-hashmap)
 
 ![image](https://github.com/XcloudFance/xcloudfance/assets/34064977/efba4d0d-4513-4915-b1c2-db557d39909a)
-
-[Personal Homepage](https://hongyicai.cc)
